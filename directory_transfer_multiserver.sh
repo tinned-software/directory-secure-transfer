@@ -3,7 +3,7 @@
 # @author Gerhard Steinbeis (info [at] tinned-software [dot] net)
 # @copyright Copyright (c) 2012 - 2013
 version=0.1.6
-# @license http://opensource.org/licenses/gpl-license.php GNU Public License
+# @license http://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3
 # @package filesystem
 #
 
