@@ -20,7 +20,7 @@ This Directory-Secure-Transfer script aims to download files located in a specif
 
 ## Download & Installation
 
-![image](http://www.tinned-software.net/images/icons/download.png) **[Download Download Directory-Secure-Transfer from Github](https://github.com/tinned-software/directory-secure-transfer)**
+![image](http://www.tinned-software.net/images/icons/download.png) **[Download Directory-Secure-Transfer from Github](https://github.com/tinned-software/directory-secure-transfer)**
 
 To install the the script download it from Github and upload it to your server. Modify the confiuration file or start the script with -h to see there commandline options.
 
